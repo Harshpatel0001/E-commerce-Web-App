@@ -7,3 +7,42 @@ This project showcases an elegant shopping UI with product categories, promotion
 
 A modern, responsive e-commerce UI built with HTML, CSS & JS.
 
+🚀 Features
+
+Fully responsive e-commerce UI
+
+Clean homepage with product categories
+
+Product pages (login, signup, cart, products)
+
+Promotional and featured sections
+
+Simple and fast UI using pure HTML, CSS & JS
+
+Folder-structured clean code
+
+Ready for backend integration
+
+🛠️ Tech Stack
+
+HTML5
+
+CSS3
+
+JavaScript (Vanilla JS)
+
+📂 Project Structure
+E-commerce-Web-App/
+│── index.html
+│── cart.html
+│── login.html
+│── signup.html
+│── product.html
+│── style.css
+│── login.css
+│── cart.css
+│── product.css
+│── script.js
+│── /assets
+│     └── images, icons, etc.
+└── README.md
